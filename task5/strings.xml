@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Films with Ryan Gosling</string>
+    <string name="click_to_see_film">Click to get recommended film</string>
+    <string-array name="films">
+        <item>La La Land</item>
+        <item>Blade Runner</item>
+        <item>First man</item>
+        <item>Drive</item>
+    </string-array>
+</resources>
