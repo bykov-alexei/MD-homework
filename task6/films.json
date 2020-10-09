@@ -1,0 +1,34 @@
+{"films":  [
+  {
+    "title": "La La Land",
+    "description": "La La Land is a 2016 American musical romantic drama film written and directed by Damien Chazelle. It stars Ryan Gosling as a jazz pianist and Emma Stone as an aspiring actress, who meet and fall in love while pursuing their dreams in Los Angeles. John Legend, Rosemarie DeWitt, Finn Wittrock, and J. K. Simmons also star.\n",
+    "imgPath": "la_la_land",
+    "year": 2016,
+    "directedBy": "Damien Chazelle",
+    "genre": "Comedy, Drama, Music"
+  },
+  {
+    "title": "Drive",
+    "description": "Drive is a 2011 American action drama film directed by Nicolas Winding Refn. The screenplay, written by Hossein Amini, is based on James Sallis's 2005 novel Drive. The film stars Ryan Gosling as an unnamed Hollywood stunt driver who moonlights as a getaway driver. He quickly grows fond of his neighbor, Irene (Carey Mulligan), and her young son, Benicio. When her debt-ridden husband, Standard (Oscar Isaac), is released from prison, the two men take part in what turns out to be a botched million-dollar heist that endangers the lives of everyone involved. The film co-stars Bryan Cranston, Christina Hendricks, Ron Perlman, and Albert Brooks.",
+    "imgPath": "drive",
+    "year": 2011,
+    "directedBy": "Nicolas Winding Refn",
+    "genre": "Crime, Drama"
+  },
+  {
+    "title": "The Believer",
+    "description": "The Believer is a 2001 American drama film directed by Henry Bean and written by Bean and Mark Jacobson. It stars Ryan Gosling as Daniel Balint, a Jew who becomes a neo-Nazi. The film is loosely based on the true story of Dan Burros, a member of the American Nazi Party and the New York branch of the United Klans of America. He committed suicide after being revealed as Jewish by a New York Times reporter. It won the Grand Jury Prize at the 2001 Sundance Film Festival and the Golden St. George at the 23rd Moscow International Film Festival.",
+    "imgPath": "the_believer",
+    "year": 2001,
+    "directedBy": "Henry Bean",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Nice Guys",
+    "description": "The Nice Guys is a 2016 American neo-noir action comedy film directed by Shane Black and written by Black and Anthony Bagarozzi. The film stars Russell Crowe, Ryan Gosling, Angourie Rice, Matt Bomer, Margaret Qualley, Keith David and Kim Basinger. Set in 1977 Los Angeles, the film focuses on a private eye (Gosling) and a tough enforcer (Crowe) who team up to investigate the disappearance of a teenage girl (Qualley).\n\nThe Nice Guys premiered on May 11, 2016, in Hollywood, and also screened on May 15 at the 2016 Cannes Film Festival, before being released by Warner Bros. Pictures in the United States on May 20, 2016. It received positive reviews from critics and grossed $62 million on a $50 million budget.",
+    "imgPath": "the_nice_guys",
+    "year": 2016,
+    "directedBy": "Shane Black",
+    "genre": "Comedy"
+  }
+]}
