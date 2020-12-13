@@ -1,0 +1,24 @@
+{
+  "people": [
+    {
+      "name": "Petya",
+      "sex": "MAN",
+      "phone": "123"
+    },
+    {
+      "name": "Vasya",
+      "sex": "MAN",
+      "phone": "234"
+    },
+    {
+      "name": "Valya",
+      "sex": "WOMAN",
+      "phone": "345"
+    },
+    {
+      "name": "MIG-29",
+      "sex": "UNKNOWN",
+      "phone": "@@@"
+    }
+  ]
+}
